@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # I am author!
 print("My first Git program!!!")
-# 2017 (c) Me
-=======
-print('Python3 version')
+print("Hello, python")
+# 2017-2018 (c) Me
 
->>>>>>> python3branch

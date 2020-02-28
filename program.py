@@ -1,3 +1,3 @@
 # I am author!
-print('Hello!!!')
-
+print("My first Git program!!!")
+# 2017 (c) Me
